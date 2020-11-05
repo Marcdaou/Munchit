@@ -1,0 +1,7 @@
+Dans l’industrie de la restauration, on a remarqué l’inflation des demandes de solutions « contactless » à cause de l’épidémie du Covid-19. La solution qu’on cherche à offrir est une application mobile qui servirait à réaliser des commandes directement à partir de l’application mobile sans avoir à consulter un menu concret.
+Dans cette application, l’utilisateur pourra consulter le menu que le restaurant enregistre dans son POS. Une interface graphique sera développée pour montrer les produits avec la possibilité de filtrage par nom, prix, et apports nutritionnels.
+La demande pourra être faite à travers l’application, l’employé pourra confirmer la commande directement sur le POS et l’intégration sera faite automatiquement.
+On travaillera sur une intégration avec les 3 compagnies de POS les plus utilisées au Liban, Omega, Squirrel et BIM POS.
+Pour ce projet on réalisera notre POC sur BIM POS puisque j’ai (Marc Daou) accès à des contacts internes et à leur base de données.
+Puisque ces opérations seront réalisées à travers la même application on pourra créer un profil virtuel pour notre utilisateur et pour pouvoir recommander des produits et personnaliser l’expérience, notamment le restaurant selon son mode de vie (véganisme, cétogène …), son budget, son gout, ses besoins nutritionnels…
+Ce produit est B2B2C, et on vendra ce service aux restaurants pour une meilleure expérience pour ses clients.
